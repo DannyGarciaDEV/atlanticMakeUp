@@ -5,4 +5,4 @@
 
 ## Me remaking it in less than 3 hours
 
-![second atlantic newspaper](/before/after/atlanticSecond.png)
+![second atlantic newspaper](/before/after/atlanticSecon.png)
